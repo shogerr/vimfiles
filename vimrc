@@ -1,5 +1,19 @@
-﻿" Turn off Vi compatible options. Off by default, extra verbose.
-set nocompatible
+﻿set nocompatible
+
+" Python for Win32
+let $PYTHONHOME = 'C:\tools\Anaconda3'
+let &pythonthreedll = 'C:\tools\Anaconda3\python37.dll'
+
+" Shell Configuration
+set shell=powershell
+set shellcmdflag=-command
+
+" YouCompleteMe
+"set pythondll=C:\tools\Anaconda3
+"let g:loaded_youcompleteme = 1
+"let g:ycm_use_clangd = "Always"
+"let g:ycm_clangd_binary_path = ""
+
 
 " Rebind <Leader> key
 let mapleader = ","
