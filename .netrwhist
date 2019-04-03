@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='C:\Users\ekem\Documents\Projects\castles\src'
+let g:netrw_dirhist_2='C:/Users/ekem/Documents/Projects/castles'
+let g:netrw_dirhist_3='C:/Users/ekem/Documents/Projects/castles/tests'
+let g:netrw_dirhist_4='C:\Users\ekem\Documents\Projects\castles\src'
+let g:netrw_dirhist_5='C:/Users/ekem/Documents/Projects/castles'
+let g:netrw_dirhist_6='C:\Users\ekem\Documents\OSU\CS457\geometry'
+let g:netrw_dirhist_7='C:/Users/ekem/Documents/OSU/CS457'
+let g:netrw_dirhist_8='C:/Users/ekem/Documents/OSU/CS457/Feb22'
+let g:netrw_dirhist_9='C:\Users\ekem\Documents\OSU\CS457\geometry'
